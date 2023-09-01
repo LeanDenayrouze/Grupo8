@@ -1,0 +1,15 @@
+.RegistroDiv{
+    width: 500px;
+    background-color: rgb(66, 199, 226);
+    border-radius: 30px;
+    height: 500px;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    margin-top: 50px
+}
+p{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}

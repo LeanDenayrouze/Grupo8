@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "task": "Realizar una lista de tareas",
+    "completed": false,
+    "description": "Crear una lista de tareas en la pagina principal que permita al usuario agregar, eliminar y editar nuevas tareas"
+},{
+    "id": 2,
+    "task": "Crear una pagina de Log In",
+    "completed": true,
+    "description": "El usuario debe ingresar su nombre de Usuario y Contraseña para poder ingresar a la MainPage "
+},{
+    "id": 3,
+    "task": "Crear una pagina de registro",
+    "completed": false,
+    "description": "Se le debe requerir al usuario un Email, Cotraseña y nombre de Usuario para registrarse"
+}
+]

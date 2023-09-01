@@ -1,0 +1,10 @@
+.regular-style{
+    padding: 10px;
+    box-sizing: content-box;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+.regular-style:hover{
+    background-color: rgb(210, 210, 223);
+}

@@ -1,0 +1,27 @@
+.taskCheckbox{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    float: left;
+}
+
+.DeleteButton{
+    float: right;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.create-button{
+    float: right;
+    background-color: rgb(80, 103, 193);
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+.create-button:hover{
+    background-color:rgb(117, 139, 227);
+}

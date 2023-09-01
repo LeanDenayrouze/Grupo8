@@ -1,0 +1,30 @@
+
+header{
+    height: 150px;
+    background-color: black;
+}
+.maintittle{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: -105px;
+    margin-left: 130px;
+}
+
+.imagen{
+    margin: 20px;
+    display: inline
+}
+
+.taskTable{
+    
+    height: 650px;
+    width: 600px;
+    background-color: aqua;
+    margin: 50px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: groove;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.regular-button-style{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: groove;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    margin-bottom: 40px;
+
+}
+.regular-button-style:hover{
+    background-color: rgb(210, 210, 223);
+}
